@@ -1,6 +1,6 @@
 # Hello!
 
-## Hi there 
+## Hi
 
 * String1
 * String2
